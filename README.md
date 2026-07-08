@@ -1,23 +1,34 @@
-# SorayaMo
+# Hi 👋 I'm Soraya Mosavi
 
-# Hi, I'm Soraya 👋
+### Aspiring Backend Software Engineer | C# & .NET Developer
 
-I'm a software developer passionate about building web applications and learning new technologies.
+## 🌱 Currently Learning
 
-## 🚀 About Me
-- 🌱 Currently learning React and AI
-- 💼 Interested in full-stack development
-- 🎯 Goal: Build products that solve real problems
+- C#
+- ASP.NET Core
+- SQL
+- Data Structures & Algorithms
+- LeetCode
 
-## 🛠️ Tech Stack
-- JavaScript
-- Python
-- React
-- Node.js
-- Git
+---
 
-## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/SorayaMosavi
-- Email: sorayamosavi36@gmail.com
+## 🚀 Current Project
 
-Thanks for visiting my profile! ⭐
+- Student Management System
+
+---
+
+## 🎯 2026 Goals
+
+- Build 10 C# Projects
+- Solve 300 LeetCode Problems
+- Learn ASP.NET Core
+- Land a Software Engineering Job
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+GitHub:
+Email:
