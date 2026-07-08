@@ -16,6 +16,7 @@ Aspiring Backend Software Engineer | C# & .NET Developer
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql" />
 </p>
+
 ### 📫 connect
 - LinkedIn: www.linkedin.com/in/sorayamosavi
 - Email: sorayamosavi36@gmail.com
