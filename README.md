@@ -45,7 +45,7 @@ Building reliable backend software with C# and .NET.
 
 <br>
 
-## 🤝 Connect
+## Connect
 
 <a href="https://www.linkedin.com/in/sorayamosavi">
   <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
