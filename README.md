@@ -15,32 +15,35 @@ Backend Software Engineering Enthusiast 🌷
 
 ### 🌷 About Me
 
-- 💜 Passionate about **Backend Software Engineering**
-- 💻 Building projects with **C#** and **.NET**
-- 🚀 Currently working on **Student Management System**
-- 📫 Reach me at **sorayamosavi36@gmail.com**
+💜 Passionate about **Backend Software Engineering**
+
+💻 Building projects with **C#** and **.NET**
+
+🚀 Currently working on **Student Management System**
+
+📫 **sorayamosavi36@gmail.com**
 
 <br>
-
-### 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/sorayamosavi">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<br><br>
 
 ### 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql" />
 </p>
+
+<br>
+
+### 🤝 Connect
+
+<a href="https://www.linkedin.com/in/sorayamosavi">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+</a>
 
 </td>
 
 <td width="45%" align="center">
 
-<img width="320" src="images/girl-coding.png"/>
+<img src="assets/girl-coding.png" width="320"/>
 
 </td>
 
@@ -49,4 +52,11 @@ Backend Software Engineering Enthusiast 🌷
 
 <br>
 
-<h3 align="center">🌸 Thanks for visiting my profile!</h3>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&theme=rose_pine&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SorayaM0&theme=github-compact&hide_border=true" />
+</p>
