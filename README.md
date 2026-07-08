@@ -14,6 +14,11 @@ I'm an aspiring Backend Software Engineer passionate about building scalable app
 
 💜 Currently focused on:
 Building student managment system application 
+   ## 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vscode,visualstudio"/>
+</p>
 
 
 
