@@ -1,22 +1,14 @@
 <h1 align="center">Hi 👋 I'm Soraya Mosavi</h1>
 
 <p align="center">
-Backend Engineer in Progress 🌷
+Backend Software Engineering • C# • .NET 🌷
 </p>
-
-<p align="center">
-C# • .NET • Learning • Building
-</p>
-
----
 
 ### 🌷 About Me
 
-I'm an aspiring Backend Software Engineer passionate about building reliable software and continuously improving my programming skills.
+I'm passionate about backend software engineering and enjoy building applications that solve real-world problems.
 
-Currently learning **C#** and **.NET**, building projects, and strengthening my problem-solving skills through **Data Structures & Algorithms**.
-
-I enjoy turning ideas into code and documenting my learning journey one project at a time.
+I love learning new technologies, improving my problem-solving skills, and creating projects that help me grow as a software engineer.
 
 ### 💻 Tech Stack
 
@@ -30,7 +22,6 @@ I enjoy turning ideas into code and documenting my learning journey one project 
 
 ### 📫 Connect
 
-<p>
-💼 <a href="https://www.linkedin.com/in/sorayamosavi">LinkedIn</a><br>
-📧 <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a>
-</p>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/sorayamosavi">linkedin.com/in/sorayamosavi</a>
+
+📧 Email: <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a>
