@@ -4,10 +4,10 @@
 
 ## 🌱 Currently Learning
 
-- C#
+- C#                                   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true)
 - ASP.NET Core
 - SQL
-- Data Structures & Algorithms
+- Data Structures & Algorithms                                        
 - LeetCode
 
 
