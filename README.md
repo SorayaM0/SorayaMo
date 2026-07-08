@@ -12,10 +12,8 @@ Aspiring Backend Software Engineer | C# & .NET Developer
 ### Current Project                        
 📚 Student Management System
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true&theme=tokyonight
-
-https://streak-stats.demolab.com?user=SorayaM0&theme=tokyonight
 
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&theme=tokyonight)
+### 📫 connect
+- LinkedIn: www.linkedin.com/in/sorayamosavi
+- Email: sorayamosavi36@gmail.com
