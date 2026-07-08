@@ -5,7 +5,7 @@ Backend Software Engineering Enthusiast 🌷
 </h3>
 
 <p align="center">
-Building software one project at a time.
+Turning ideas into code.
 </p>
 
 <p align="center">
@@ -15,27 +15,31 @@ Building software one project at a time.
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="40%" valign="middle" align="center">
+
+<img src="./girl-coding.png" width="360"/>
+
+</td>
+
+<td width="60%" valign="top">
 
 ## 🌷 About Me
 
-💜 Passionate about Backend Software Engineering
+💜 Passionate about **Backend Software Engineering**
 
 💻 Building applications with **C#** and **.NET**
 
-📚 Always learning through projects and hands-on practice
+📚 Learning through real-world projects
 
-📫 <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a>
-
-<br>
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql"/>
 </p>
 
-<br>
+---
 
 ## 🚀 Featured Projects
 
@@ -43,9 +47,9 @@ Building software one project at a time.
 
 ☕ Cafe Management System *(Coming Soon)*
 
-🧮 C# Mini Projects
+🧮 C# Learning Projects
 
-<br>
+---
 
 ## 🤝 Connect
 
@@ -53,26 +57,12 @@ Building software one project at a time.
 <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
 </a>
 
-</td>
-
-<td width="45%" align="center">
-
-<img src="./girl-coding.png" width="290"/>
+📧 **sorayamosavi36@gmail.com**
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&theme=rose_pine&hide_border=true"/>
-</p>
-
-<br>
 
 <p align="center">
 🌷 Thanks for visiting my profile!
