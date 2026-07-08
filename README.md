@@ -23,5 +23,10 @@ Building student managment system application
 
 ![](https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true&theme=tokyonight)
 
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/sorayamosavi
+- 📧 Email: sorayamosavi36@gmail.com
+
 
 
