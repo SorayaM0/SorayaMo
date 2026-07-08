@@ -1,6 +1,6 @@
 <h1 align="center">Hi  I'm Soraya Mosavi</h1>
 
-<h3 align="center">Backend Software Engineering Enthusiast </h3>
+<h3 align="center"> Computer Science Student | Backend Software Engineering Enthusiast </h3>
 
 <p align="center">
 Building reliable backend software with C# and .NET.
