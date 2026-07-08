@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Soraya Mosavi</h1>
 
-<h3 align="center">Backend Software Engineering Enthusiast </h3>
+<h3 align="center">Backend Software Engineering Enthusiast 🌷</h3>
 
 <p align="center">
-Turning ideas into code, one project at a time.
+Building reliable backend software with C# and .NET.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SorayaM0&label=Profile%20Views&color=ff69b4&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=SorayaM0&label=Profile%20Views&color=ff69b4&style=flat"/>
 </p>
 
 <table>
@@ -15,7 +15,7 @@ Turning ideas into code, one project at a time.
 
 <td width="58%" valign="top">
 
-##  About Me
+## 🌷 About Me
 
 💜 Passionate about **Backend Software Engineering**
 
@@ -29,8 +29,8 @@ Turning ideas into code, one project at a time.
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql"/>
 </p>
 
 <br>
@@ -45,10 +45,10 @@ Turning ideas into code, one project at a time.
 
 <br>
 
-##  Connect
+## 🤝 Connect
 
 <a href="https://www.linkedin.com/in/sorayamosavi">
-<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
 </a>
 
 </td>
@@ -63,6 +63,16 @@ Turning ideas into code, one project at a time.
 </table>
 
 <br>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SorayaM0&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SorayaM0&theme=rose-pine&hide_border=true" />
+</p>
 
 <p align="center">
 🌷 Thanks for visiting my profile!
