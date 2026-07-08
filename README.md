@@ -42,8 +42,7 @@ Backend Software Engineering Enthusiast 🌷
 </td>
 
 <td width="45%" align="center">
-
-<img src="assets/girl-coding.png" width="320"/>
+<img src="./girl-coding.png" width="320"/>
 
 </td>
 
