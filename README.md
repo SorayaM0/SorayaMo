@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 I'm Soraya Mosavi</h1>
+<h1 align="center">Hi  I'm Soraya Mosavi</h1>
 
-<h3 align="center">Backend Software Engineering Enthusiast 🌷</h3>
+<h3 align="center">Backend Software Engineering Enthusiast </h3>
 
 <p align="center">
 Building reliable backend software with C# and .NET.
@@ -35,7 +35,7 @@ Building reliable backend software with C# and .NET.
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 📚 Student Management System *(In Progress)*
 
@@ -64,7 +64,7 @@ Building reliable backend software with C# and .NET.
 
 <br>
 
-## 📊 GitHub Activity
+## 📊  Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SorayaM0&theme=github-compact&hide_border=true" />
@@ -75,5 +75,5 @@ Building reliable backend software with C# and .NET.
 </p>
 
 <p align="center">
-🌷 Thanks for visiting my profile!
+ Thanks for visiting my profile!
 </p>
