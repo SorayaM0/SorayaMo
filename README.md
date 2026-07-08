@@ -37,11 +37,10 @@ Building reliable backend software with C# and .NET.
 
 ## Featured Projects
 
-📚 Student Management System 
-
-☕ Cafe Management System 
-
-🧮 C# Learning Projects
+ -Student Management System 
+ - Cafe Management System 
+ -Finance Tracker App
+ -C# Learning Projects
 
 <br>
 
