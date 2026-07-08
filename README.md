@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Soraya Mosavi</h1>
 
-<h3 align="center">
-Backend Software Engineering Enthusiast 🌷
-</h3>
+<h3 align="center">Backend Software Engineering Enthusiast 🌷</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SorayaM0&label=Profile%20Views&color=ff69b4&style=flat" />
@@ -17,17 +15,17 @@ Backend Software Engineering Enthusiast 🌷
 
 💜 Passionate about **Backend Software Engineering**
 
-💻 Building projects with **C#** and **.NET**
+💻 Building applications with **C#** and **.NET**
 
 🚀 Currently working on **Student Management System**
 
-📫 **sorayamosavi36@gmail.com**
+📫 <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a>
 
 <br>
 
 ### 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql" />
 </p>
 
@@ -35,14 +33,15 @@ Backend Software Engineering Enthusiast 🌷
 
 ### 🤝 Connect
 
-<a href="https://www.linkedin.com/in/sorayamosavi">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+<a href="https://www.linkedin.com/in/sorayamosavi" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
 </a>
 
 </td>
 
-<td width="45%" align="center">
-<img src="./girl-coding.png" width="320"/>
+<td width="45%" align="center" valign="middle">
+
+<img src="./girl-coding.png" width="280"/>
 
 </td>
 
