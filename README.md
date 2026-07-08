@@ -19,6 +19,9 @@ Building student managment system application
 <p>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vscode,visualstudio"/>
 </p>
+  ## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true&theme=tokyonight)
 
 
 
