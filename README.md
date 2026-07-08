@@ -1,34 +1,10 @@
-<h1 align="center">hi, i'm Soraya 🌷</h1>
+<h1 align="center">
+Hi 👋, I'm Soraya Mosavi
+</h1>
 
-<p align="center">
-  aspiring backend software engineer · c#/.net · learning dsa
+<h3 align="center">
+Aspiring Backend Software Engineer | C# & .NET Developer
+</h3>
+  <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;C%23+%7C+.NET+Developer;Building+Projects+Every+Week;" />
 </p>
-
----
-
-### 🌱 currently learning
-- C#
-- .NET
-- Data Structures & Algorithms
-- LeetCode
-- SQL
-
-### 🛠️ tech stack
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode" />
-</p>
-
-### ✨ current focus
-- building small C# projects
-- learning methods, classes, and OOP
-- preparing for LeetCode and backend interviews
-
-### 📌 goals
-- build 10 C# projects
-- solve 300 LeetCode problems
-- learn ASP.NET Core + SQL
-- become a backend software engineer
-
-### 📫 connect
-- LinkedIn: 
-- Email: sorayamosavi36@gmail.com
