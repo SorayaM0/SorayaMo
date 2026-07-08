@@ -1,50 +1,43 @@
-<div align="center">
+<h1 align="center">Hi 👋 I'm Soraya Mosavi</h1>
 
-# Hi, I'm Soraya Mosavi 🌷
-
-### Backend Software Engineering Enthusiast
-
-*C# • .NET • Software Development*
-
-</div>
-
----
-
-### 🌷 About Me
-
-I'm passionate about backend software engineering and enjoy building software that solves real-world problems.
-
-I believe in continuous learning, writing clean code, and growing through consistent practice and projects.
-
----
-
-### 💻 Tech Stack
+<h3 align="center">Backend Software Engineering Enthusiast 🌷</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql"/>
+  <img src="https://komarev.com/ghpvc/?username=SorayaM0&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
 
----
+<table>
+<tr>
+<td width="55%">
 
-### 🚀 Current Project
+- 🌱 Interested in **Backend Software Engineering**
 
-📚 Student Management System
+- 📚 Currently working on **Student Management System**
 
----
+- 📫 How to reach me **sorayamosavi36@gmail.com**
 
-### 📊 GitHub
+### Connect with me
+
+<a href="https://www.linkedin.com/in/sorayamosavi">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+### Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql" />
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="330" />
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-### 📫 Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sorayamosavi">LinkedIn</a> •
-<a href="mailto:sorayamosavi36@gmail.com">Email</a>
+  <img src="https://streak-stats.demolab.com?user=SorayaM0&theme=default&hide_border=false" />
 </p>
