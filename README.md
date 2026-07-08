@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Soraya Mosavi</h1>
 
-<h3 align="center">Backend Software Engineering Enthusiast 🌷</h3>
+<h3 align="center">Backend Software Engineering Enthusiast </h3>
 
 <p align="center">
 Turning ideas into code, one project at a time.
@@ -15,7 +15,7 @@ Turning ideas into code, one project at a time.
 
 <td width="58%" valign="top">
 
-## 🌷 About Me
+##  About Me
 
 💜 Passionate about **Backend Software Engineering**
 
@@ -45,7 +45,7 @@ Turning ideas into code, one project at a time.
 
 <br>
 
-## 🤝 Connect
+##  Connect
 
 <a href="https://www.linkedin.com/in/sorayamosavi">
 <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
