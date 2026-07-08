@@ -10,25 +10,13 @@
 - Data Structures & Algorithms
 - LeetCode
 
----
 
-## 🚀 Current Project
+##  Current Project
 
 - Student Management System
-
----
-
-## 🎯 2026 Goals
-
-- Build 10 C# Projects
-- Solve 300 LeetCode Problems
-- Learn ASP.NET Core
-- Land a Software Engineering Job
-
----
 
 ## 📫 Connect With Me
 
 LinkedIn:
 GitHub:
-Email:
+Email:sorayamosavi36@gmail.com
