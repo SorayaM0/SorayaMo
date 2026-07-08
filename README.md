@@ -20,3 +20,4 @@
 LinkedIn:
 GitHub:
 Email:sorayamosavi36@gmail.com
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql" />
