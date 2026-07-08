@@ -15,7 +15,7 @@ Building reliable backend software with C# and .NET.
 
 <td width="58%" valign="top">
 
-## 🌷 About Me
+##  About Me
 
  Passionate about **Backend Software Engineering**
 
