@@ -1,32 +1,34 @@
-<h1 align="center">
-Hi 👋, I'm Soraya Mosavi
-</h1>
+<h1 align="center">hi, i'm Soraya 🌷</h1>
 
-<h3 align="center">
-Aspiring Backend Software Engineer | C# & .NET Developer
-</h3>
-  <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;C%23+%7C+.NET+Developer;Building+Projects+Every+Week;Future+Software+Engineer" />
+<p align="center">
+  aspiring backend software engineer · c#/.net · learning dsa
 </p>
-  👩‍💻 About Me: 
 
-I'm an aspiring Backend Software Engineer passionate about building scalable applications and continuously improving my programming skills.
+---
 
-💜 Currently focused on:
-Building student managment system application 
-   ## 💻 Tech Stack
+### 🌱 currently learning
+- C#
+- .NET
+- Data Structures & Algorithms
+- LeetCode
+- SQL
 
+### 🛠️ tech stack
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vscode,visualstudio"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode" />
 </p>
-  ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true&theme=tokyonight)
+### ✨ current focus
+- building small C# projects
+- learning methods, classes, and OOP
+- preparing for LeetCode and backend interviews
 
-## 📫 Connect With Me
+### 📌 goals
+- build 10 C# projects
+- solve 300 LeetCode problems
+- learn ASP.NET Core + SQL
+- become a backend software engineer
 
-- 💼 LinkedIn: https://linkedin.com/in/sorayamosavi
-- 📧 Email: sorayamosavi36@gmail.com
-
-
-
+### 📫 connect
+- LinkedIn: 
+- Email: sorayamosavi36@gmail.com
