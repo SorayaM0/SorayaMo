@@ -17,13 +17,13 @@ Building reliable backend software with C# and .NET.
 
 ## 🌷 About Me
 
-💜 Passionate about **Backend Software Engineering**
+ Passionate about **Backend Software Engineering**
 
-💻 Building applications with **C#** and **.NET**
+ Building applications with **C#** and **.NET**
 
-📚 Learning through real-world projects and continuous improvement
+ Learning through real-world projects and continuous improvement
 
-📫 <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a>
+ <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a>
 
 <br>
 
@@ -37,9 +37,9 @@ Building reliable backend software with C# and .NET.
 
 ## Featured Projects
 
-📚 Student Management System *(In Progress)*
+📚 Student Management System 
 
-☕ Cafe Management System *(Coming Soon)*
+☕ Cafe Management System 
 
 🧮 C# Learning Projects
 
