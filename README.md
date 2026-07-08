@@ -27,7 +27,7 @@ Building reliable backend software with C# and .NET.
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql"/>
