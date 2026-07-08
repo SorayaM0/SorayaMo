@@ -40,7 +40,7 @@ Backend Software Engineering Enthusiast 🌷
 
 <td width="45%" align="center">
 
-<img width="330" src="YOUR_GIRL_IMAGE_HERE"/>
+<img width="320" src="images/girl-coding.png"/>
 
 </td>
 
@@ -49,16 +49,4 @@ Backend Software Engineering Enthusiast 🌷
 
 <br>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SorayaM0&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorayaM0&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SorayaM0&theme=rose-pine&hide_border=true"/>
-
-</p>
+<h3 align="center">🌸 Thanks for visiting my profile!</h3>
