@@ -6,5 +6,14 @@ Hi 👋, I'm Soraya Mosavi
 Aspiring Backend Software Engineer | C# & .NET Developer
 </h3>
   <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;C%23+%7C+.NET+Developer;Building+Projects+Every+Week;Learning+Data+Structures+%26+Algorithms;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;C%23+%7C+.NET+Developer;Building+Projects+Every+Week;+%26+Algorithms;Future+Software+Engineer" />
 </p>
+ ## 👩‍💻 About Me
+
+I'm an aspiring Backend Software Engineer passionate about building scalable applications and continuously improving my programming skills.
+
+💜 Currently focused on:
+Building student managment system application 
+
+
+🚀 My goal is to become a backend software engineer building real-world software and solving challenging engineering problems.
