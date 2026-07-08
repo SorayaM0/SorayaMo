@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋 I'm Soraya Mosavi</h1>
 
-<h3 align="center">
-Backend Software Engineering Enthusiast 🌷
-</h3>
+<h3 align="center">Backend Software Engineering Enthusiast 🌷</h3>
 
 <p align="center">
-Turning ideas into code.
+Turning ideas into code, one project at a time.
 </p>
 
 <p align="center">
@@ -15,13 +13,7 @@ Turning ideas into code.
 <table>
 <tr>
 
-<td width="40%" valign="middle" align="center">
-
-<img src="./girl-coding.png" width="360"/>
-
-</td>
-
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ## 🌷 About Me
 
@@ -29,9 +21,11 @@ Turning ideas into code.
 
 💻 Building applications with **C#** and **.NET**
 
-📚 Learning through real-world projects
+📚 Learning through real-world projects and continuous improvement
 
----
+📫 <a href="mailto:sorayamosavi36@gmail.com">sorayamosavi36@gmail.com</a>
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +33,7 @@ Turning ideas into code.
 <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio,mysql"/>
 </p>
 
----
+<br>
 
 ## 🚀 Featured Projects
 
@@ -49,7 +43,7 @@ Turning ideas into code.
 
 🧮 C# Learning Projects
 
----
+<br>
 
 ## 🤝 Connect
 
@@ -57,12 +51,18 @@ Turning ideas into code.
 <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
 </a>
 
-📧 **sorayamosavi36@gmail.com**
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="./girl-coding.png" width="360"/>
 
 </td>
 
 </tr>
 </table>
+
+<br>
 
 <p align="center">
 🌷 Thanks for visiting my profile!
